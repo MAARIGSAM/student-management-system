@@ -1,0 +1,1 @@
+This is a Project Management System designed to help users efficiently plan, organize, and manage projects. The system allows users to create projects, assign tasks, track progress, and collaborate with team members in a structured and organized way.
